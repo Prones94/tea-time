@@ -36,29 +36,29 @@
     justify-items: center;
 }
 .black {
-    background-image: url(/images/Black\ Tea.jpeg);
+    background-image: url(images/Black-Tea.jpeg);
 }
 .green {
-    background-image: url(/images/Green\ Tea.jpg);
+    background-image: url(images/Green-Tea.jpg);
     background-position: center;
     background-size: 100%;
 
 }
 .oolong {
-    background-image: url(/images/Oolong\ Tea.jpeg);
+    background-image: url(images/Oolong-Tea.jpeg);
 }
 .puer {
-    background-image: url(/images/Puer.jpg);
+    background-image: url(images/Puer.jpg);
     background-size: 100%;
 }
 .white {
-    background-image: url(/images/White\ Tea.jpg);
+    background-image: url(images/White-Tea.jpg);
     background-position: center;
     background-size: 100%;
     background-repeat: no-repeat;
 }
 .yellow {
-    background-image: url(/images/Yellow\ Tea.jpeg);
+    background-image: url(images/Yellow-Tea.jpeg);
 }
 .container {
     width: 100%;
@@ -68,7 +68,7 @@
     grid-auto-flow: dense;
 }
 .tea-field {
-    background-image: url(/images/tea-fields.jpg);
+    background-image: url(images/tea-fields.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
 }
