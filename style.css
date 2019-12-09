@@ -63,7 +63,7 @@
 .container {
     width: 100%;
     display: grid;
-    justify-item: center;
+    justify-items: center;
     margin: 10px 40px;
     grid-auto-flow: dense;
 }
